@@ -15,7 +15,7 @@ Day 1: Revise HTML in 0.5 day or less than that. Start with CSS theory revision.
 Day 2: Practise the CSS questions on bfe.dev
 Day 3-4: Watch Namaste JS playlist for a refresher. This will take two days as there are good amount of videos, it's always good if you can complete it in less time.
 Day 5-7: Focus on other topics that weren't covered in the playlist. Practise the polyfills by coding them yourself, not just on the notebook but also on the laptop.
-
+Also, check https://www.youtube.com/watch?v=u1jU6xilGQg&t=615s
 ```
 
 <details>
@@ -128,6 +128,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - setTimout, setInterval
   - High Order Functions
   - [Working of JS Engine](https://youtu.be/xckH5s3UuX4?si=0S3VazCatZBlDfgv)
+  - https://www.youtube.com/watch?v=QyUFheng6J0
 
     <details>
       <summary><strong>Useful Resources</strong></summary>
@@ -235,6 +236,7 @@ Don't forget to keep practising questions everyday, as it will not only make you
    - [First Contentful Paint (FCP)](https://web.dev/fcp/)
    - [Time to First Byte (TTFB)](https://web.dev/ttfb/)
   </details>
+  
    
 </details>
 
@@ -251,6 +253,7 @@ Don't forget to keep practising questions everyday, as it will not only make you
   - [Optimising Web Fonts](https://web.dev/fast/#optimize-webfonts)
   - [Optimising Network Quality](https://web.dev/fast/#optimize-for-network-quality)
   - [Webpack to optimized/compressed pages (Code splitting, Brotli Compression, Gzip Compression)](https://levelup.gitconnected.com/the-ultimate-guide-to-modern-web-application-performance-ec4eec9939)
+  - https://web.dev/learn/performance
    
 </details>
 
